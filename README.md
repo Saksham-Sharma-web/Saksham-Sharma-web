@@ -22,22 +22,22 @@
 
 ---
 
-# 👋 Hey, I'm Saksham
+# 👋 Hey, I'm Saksham Sharma
 
-I'm a **Computer Science Engineering student, full-stack developer and builder** who enjoys turning ideas into real-world products.
+I'm a **Computer Science Engineering student, Application Developer and full-stack developer** who enjoys turning ideas into real-world products.
 
-I love working across the entire development lifecycle — from **UI/UX and mobile development to backend architecture, databases, deployment and AI-powered systems.**
+I love working across the entire development lifecycle — from **UI/UX and mobile development to backend architecture, databases, deployment, cloud infrastructure and AI-powered systems.**
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
 │                                                            │
-│  🚀 Building        → Vibeesta                            │
-│  💻 Focus            → Full Stack Development              │
-│  📱 Mobile           → Flutter                             │
-│  ⚙️ Backend          → Node.js + Express                   │
-│  🗄️ Database         → PostgreSQL + MongoDB                │
-│  🤖 Exploring        → AI / RAG / Intelligent Systems      │
-│  🧠 Problem Solving  → DSA + C++                           │
-│  ☁️ Infrastructure   → Docker + DigitalOcean              │
+│  🚀 Built & deployed      → Vibeesta                       │
+│  💻 Focus                 → To get SDE + DevOps roles      │
+│  📱 Mobile                → Flutter                        │
+│  ⚙️ Backend               → Node.js + Express              │
+│  🗄️ Database              → PostgreSQL + MongoDB + Redis   │
+│  🤖 Exploring             → AI / RAG / Intelligent Systems │
+│  🧠 Problem Solving       → DSA + C++                      │
+│  ☁️ Infrastructure        → Docker + DigitalOcean + CI/CD  │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
