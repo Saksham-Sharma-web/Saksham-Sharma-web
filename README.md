@@ -15,10 +15,10 @@
 <a href="https://github.com/Saksham-Sharma-web">
   <img src="https://komarev.com/ghpvc/?username=Saksham-Sharma-web&label=Profile%20Views&color=6C63FF&style=for-the-badge&logo=github" alt="Profile Views" />
 </a>
-<a href="https://github.com/Saksham-Sharma-web?tab=followers">
+<!-- <a href="https://github.com/Saksham-Sharma-web?tab=followers">
   <img src="https://img.shields.io/github/followers/Saksham-Sharma-web?label=Followers&style=for-the-badge&color=00D4FF&logo=github" alt="Followers" />
-</a>
-<a href="mailto:contact.saksham.dev@gmail.com">
+</a> -->
+<a href="mailto:saksh.am.sharma5956@gmail.com">
   <img src="https://img.shields.io/badge/Status-Building_%26_Open_to_Collaborate-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status" />
 </a>
 
@@ -227,7 +227,7 @@ I am a **Computer Science Engineering student, Full Stack Developer, and product
 * 💡 **DocSphere AI — Smart India Hackathon (SIH):** Built an end-to-end intelligent document QA system with LangChain & RAG.
 * ☁️ **AWS Cloud Foundation:** Certified foundation in cloud infrastructure, compute, networking, and security.
 * 🌐 **Web & Tech Leadership:** Led campus web development workshops, technical mentoring, and developer hackathon teams.
-* 🤝 **Yuktikula Technical Team:** Contributed to core technical initiatives, open-source workshops, and student tech culture.
+* 🤝 **Yuktikula Technical Team Lead:** Contributed to core technical initiatives, open-source workshops, and student tech culture.
 
 ---
 
@@ -281,14 +281,11 @@ I am a **Computer Science Engineering student, Full Stack Developer, and product
 
 <div align="center">
 
-<a href="https://github.com/Saksham-Sharma-web">
-  <img src="https://img.shields.io/badge/GitHub-Saksham--Sharma--web-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/saksham-sharma-dev">
+<a href="https://www.linkedin.com/in/saksham-sharma-59090432b">
   <img src="https://img.shields.io/badge/LinkedIn-Saksham_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:contact.saksham.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contact.saksham.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:saksh.am.sharma5956@gmail.com">
+  <img src="https://img.shields.io/badge/Email-saksh.am.sharma5956%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://happy-birthday-3js.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Interactive_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
