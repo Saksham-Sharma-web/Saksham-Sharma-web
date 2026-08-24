@@ -36,11 +36,11 @@
 ╭─────────────────────────────────────────────────────────────────────────────╮
 │                                                                             │
 │  🎓 Education    : Computer Science & Engineering                           │
-│  💻 Role         : Full Stack Developer & Software Builder                  │
+│  💻 Role         : Full Stack Developer & Software Application Developer    │
 │  🚀 Passion      : Architecting scalable systems & turning ideas to product │
 │  📱 Mobile       : Production Flutter apps with clean state management      │
 │  ⚙️ Backend      : High-throughput Node.js, Express & REST/WebSocket APIs   │
-│  🗄️ Databases    : PostgreSQL, MongoDB, Redis & Firebase                   │
+│  🗄️ Databases    : PostgreSQL, MongoDB, Redis & Firebase                    │
 │  🤖 Exploring    : AI Engineering, LangChain, RAG & Computer Vision         │
 │  🧠 DSA & Code   : Strong problem solving in C++ & Algorithms               │
 │  ☁️ Cloud/DevOps : Docker, DigitalOcean, GitHub Actions CI/CD               │
@@ -48,7 +48,7 @@
 ╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
-I am a **Computer Science Engineering student, Full Stack Developer, and product builder** who enjoys taking software from initial architecture to production deployment. I focus on writing clean, modular code, designing dependable backend architectures, creating intuitive mobile user experiences, and exploring modern AI integrations.
+I am a **Computer Science Engineering student, Full Stack Developer, and product builder** who enjoys taking software from initial architecture to production deployment. I focus on writing clean, modular code, designing dependable backend architectures, creating intuitive mobile user experiences, and exploring modern AIML.
 
 ---
 
@@ -176,10 +176,10 @@ I am a **Computer Science Engineering student, Full Stack Developer, and product
 
 ## 📊 Live GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saksham-Sharma-web&theme=tokyonight" alt="Saksham's GitHub Profile Details" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saksham-Sharma-web&theme=tokyonight" alt="Repos per Language" width="49%" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Saksham-Sharma-web&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=6C63FF&currStreakNum=00D4FF" alt="GitHub Streak" width="98%" />
@@ -231,27 +231,6 @@ I am a **Computer Science Engineering student, Full Stack Developer, and product
 
 ---
 
-<!-- ================================================================= -->
-<!--                     DEVELOPER MINDSET SECTION                     -->
-<!-- ================================================================= -->
-
-## ⚙️ Developer Mindset & Execution Flow
-
-```text
-    ┌──────────┐     ┌───────────┐     ┌───────────┐     ┌──────────┐
-    │   IDEA   │ ──► │  DESIGN   │ ──► │   BUILD   │ ──► │   TEST   │
-    └──────────┘     └───────────┘     └───────────┘     └──────────┘
-                                                               │
-    ┌──────────┐     ┌───────────┐     ┌───────────┐           │
-    │ REPEAT ↺ │ ◄── │  IMPROVE  │ ◄── │   SCALE   │ ◄─────────┘
-    └──────────┘     └───────────┘     └───────────┘
-```
-
-<div align="center">
-  <p><b><i>"Build → Break → Learn → Improve → Repeat."</i></b></p>
-</div>
-
----
 
 <!-- ================================================================= -->
 <!--                         2026 GOALS SECTION                        -->
