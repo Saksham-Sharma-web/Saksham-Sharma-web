@@ -48,7 +48,7 @@
 ╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
-I am a **Computer Science Engineering student, Full Stack Developer, and product builder** who enjoys taking software from initial architecture to production deployment. I focus on writing clean, modular code, designing dependable backend architectures, creating intuitive mobile user experiences, and exploring modern AIML.
+I am a **Computer Science Engineering student, Full Stack and Application Developer** who enjoys taking software from initial architecture to production deployment. I focus on writing clean, modular code, designing dependable backend architectures, creating intuitive mobile user experiences, and exploring modern AIML.
 
 ---
 
