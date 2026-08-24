@@ -287,9 +287,9 @@ I am a **Computer Science Engineering student, Full Stack Developer, and product
 <a href="mailto:saksh.am.sharma5956@gmail.com">
   <img src="https://img.shields.io/badge/Email-saksh.am.sharma5956%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://happy-birthday-3js.vercel.app">
+<!-- <a href="https://happy-birthday-3js.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Interactive_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
+</a> -->
 
 <br/><br/>
 
