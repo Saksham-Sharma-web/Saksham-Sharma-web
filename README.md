@@ -61,12 +61,12 @@ I am a **Computer Science Engineering student, Full Stack Developer, and product
 <div align="center">
   <img src="https://img.shields.io/badge/Flagship_Project-VIBEESTA-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Vibeesta Badge" />
   <img src="https://img.shields.io/badge/Role-Co--Founder_%26_Lead_Developer-00D4FF?style=for-the-badge" alt="Co-Founder Badge" />
-  <img src="https://img.shields.io/badge/Stage-Active_Development-orange?style=for-the-badge" alt="Stage Badge" />
+  <img src="https://img.shields.io/badge/Stage-Deployed on PlayStore & AppStore-orange?style=for-the-badge" alt="Stage Badge" />
 </div>
 
 <br/>
 
-> **Vibeesta** is a student-focused social platform engineered around **campus culture, student communities, creators, and real-time interaction**.
+> **Vibeesta** is a student-focused social media application engineered around **campus culture, student communities, creators, and real-time interaction**.
 
 ### 🌟 Key Highlights & Modules
 
@@ -131,7 +131,7 @@ I am a **Computer Science Engineering student, Full Stack Developer, and product
 
 ### 📱 Frontend & Mobile
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,threejs,bootstrap,figma" alt="Frontend & Mobile" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,threejs,figma" alt="Frontend & Mobile" />
 </a>
 
 <br/><br/>
@@ -174,15 +174,15 @@ I am a **Computer Science Engineering student, Full Stack Developer, and product
 <!--                      GITHUB STATS & ANALYTICS                     -->
 <!-- ================================================================= -->
 
-## 📊 GitHub Analytics
+## 📊 Live GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-Sharma-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6C63FF&text_color=c9d1d9" alt="Saksham's GitHub Stats" width="48.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Sharma-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9" alt="Top Languages" width="48.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saksham-Sharma-web&theme=tokyonight" alt="Saksham's GitHub Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saksham-Sharma-web&theme=tokyonight" alt="Repos per Language" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Sharma-web&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=6C63FF&currStreakNum=00D4FF" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=Saksham-Sharma-web&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=6C63FF&currStreakNum=00D4FF" alt="GitHub Streak" width="98%" />
 </div>
 
 ---
@@ -191,7 +191,7 @@ I am a **Computer Science Engineering student, Full Stack Developer, and product
 <!--                    CONTRIBUTION ACTIVITY GRAPH                    -->
 <!-- ================================================================= -->
 
-## 📈 Contribution Activity
+## 📈 Live Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Sharma-web&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=6C63FF&point=00D4FF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
@@ -203,7 +203,7 @@ I am a **Computer Science Engineering student, Full Stack Developer, and product
 <!--                    SNAKE CONTRIBUTION ANIMATION                   -->
 <!-- ================================================================= -->
 
-## 🐍 Contribution Snake
+## 🐍 Dynamic Contribution Snake
 
 <div align="center">
   <picture>
