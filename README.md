@@ -53,10 +53,10 @@ I am a **Computer Science Engineering student, Full Stack Developer, and product
 ---
 
 <!-- ================================================================= -->
-<!--                  CURRENTLY BUILDING — VIBEESTA                    -->
+<!--                     BUILT & DEPLOYED — VIBEESTA                   -->
 <!-- ================================================================= -->
 
-## 🚀 Currently Building — Vibeesta
+## 🚀 Built & Deployed — Vibeesta
 
 <div align="center">
   <img src="https://img.shields.io/badge/Flagship_Project-VIBEESTA-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Vibeesta Badge" />
