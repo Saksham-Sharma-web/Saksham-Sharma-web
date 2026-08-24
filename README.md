@@ -120,53 +120,44 @@ I am a **Computer Science Engineering student, Full Stack Developer, and product
 
 ## 🛠️ Technical Stack & Tooling
 
-<div align="center">
-
-### 💻 Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,dart,html,css" alt="Languages" />
-</a>
-
-<br/><br/>
-
-### 📱 Frontend & Mobile
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,threejs,figma" alt="Frontend & Mobile" />
-</a>
-
-<br/><br/>
-
-### ⚙️ Backend & APIs
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,postman" alt="Backend & APIs" />
-</a>
-
-<br/><br/>
-
-### 🗄️ Databases & Caching
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase" alt="Databases & Caching" />
-</a>
-
-<br/><br/>
-
-### ☁️ DevOps, Cloud & Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vercel,bash" alt="DevOps & Cloud" />
-</a>
-
-<br/><br/>
-
-### 🤖 AI, Data & Vision
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/RAG_Architecture-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="RAG Architecture" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/OCR_Systems-00D4FF?style=for-the-badge&logo=googlecloud&logoColor=black" alt="OCR" />
-  <img src="https://img.shields.io/badge/NumPy_%26_Pandas-4D77CF?style=for-the-badge&logo=numpy&logoColor=white" alt="Data" />
-</p>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>💻 Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,dart,html,css" height="36" alt="Languages" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🗄️ Databases & Caching</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase" height="36" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📱 Frontend & Mobile</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,threejs,figma" height="36" alt="Frontend & Mobile" />
+    </td>
+    <td width="50%" valign="top">
+      <b>☁️ DevOps & Cloud</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vercel,bash" height="36" alt="DevOps & Cloud" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>⚙️ Backend & APIs</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,postman" height="36" alt="Backend & APIs" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🤖 AI, Data & Vision</b><br/><br/>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="24" alt="LangChain" />
+        <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square&logo=openai&logoColor=white" height="24" alt="RAG" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="24" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/OCR-00D4FF?style=flat-square" height="24" alt="OCR" />
+        <img src="https://img.shields.io/badge/NumPy_%26_Pandas-4D77CF?style=flat-square&logo=numpy&logoColor=white" height="24" alt="Data" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
