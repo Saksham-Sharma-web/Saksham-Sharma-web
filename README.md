@@ -182,13 +182,13 @@ I am a **Computer Science Engineering student, Full Stack and Application Develo
 <!--                    CONTRIBUTION ACTIVITY GRAPH                    -->
 <!-- ================================================================= -->
 
-## 📈 Live Contribution Activity
+<!-- ## 📈 Live Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Sharma-web&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=6C63FF&point=00D4FF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
----
+--- -->
 
 <!-- ================================================================= -->
 <!--                    SNAKE CONTRIBUTION ANIMATION                   -->
